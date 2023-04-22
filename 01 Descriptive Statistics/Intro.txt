@@ -3,5 +3,14 @@ When dealing with datasets in data science,it is very important to know about th
 getting valuable and effective results if difficult.
 Descriptive Statistics is broken down into two sub topics-measures of central tendency and measures of variability (spread).
 Measure of central tendecy-Mean,Median,Mode
-Measure of variabiltiy-standard deviation,variance,minimum value,max value,range(Maxval-Minval),kurtosis,skewness,Karl pearsons coeffiecient.
-
+Measure of variabiltiy-standard deviation,variance,minimum value,max value,range(Maxval-Minval),kurtosis,skewness,Karl pearsons coeffiecient.  
+First lets look at various distributions
+  1)symmetric:Equaly distributed on both sides of central value(perfect bell shaped)
+  2)skewed:Unsymmertic shaped data.can be positive or negative
+    a)positive:The data is bent towards left.Mode is greater than mean
+    b)negative:The data is bent towards right.Mean is greater than mode
+  
+  Pearsons coeffieceint:mean-mode/std
+  Pearsons 3rd coeffiecient:3mean-median/std
+  Kurtosis:Kurtosis is a measure of the tailedness of a distribution. Tailedness is how often outliers occur.
+  
