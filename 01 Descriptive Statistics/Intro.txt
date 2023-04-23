@@ -12,5 +12,5 @@ First lets look at various distributions
   
   Pearsons coeffieceint:mean-mode/std
   Pearsons 3rd coeffiecient:3mean-median/std
-  Kurtosis:Kurtosis is a measure of the tailedness of a distribution. Tailedness is how often outliers occur.
+  Kurtosis:Kurtosis is a measure of the tailedness of a distribution. Tailedness is how often outliers occur.Kurtosis refers to the proportion of data that is heavy-   tailed or light-tailed in comparison with a normal distribution.
   
